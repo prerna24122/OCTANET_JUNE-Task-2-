@@ -1,2 +1,7 @@
 # OCTANET_JUNE (Task-02)
-![Uploading Screenshot (1152).png…]()
+![Screenshot (1152)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/8d2d73eb-c557-416a-ae67-4d925bc21429)
+![Screenshot (1153)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/08cd4582-96bd-4698-8486-7831071fd5dd)
+![Screenshot (1154)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/7d72f55a-edae-406f-ba3e-69f9c1844300)
+![Screenshot (1155)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/e830fb34-7fe6-4260-a420-718f043e2a2d)
+![Screenshot (1156)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/c15626e9-c856-41a8-b321-d9a97f918f6b)
+![Screenshot (1157)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/5323443a-a8a5-4f5f-b994-a66db82a762e)
