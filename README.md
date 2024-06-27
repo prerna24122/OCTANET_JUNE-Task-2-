@@ -3,8 +3,7 @@ It is a Basic TO DO-LIST project using CURD OPERATION with Local Storage in java
 # PROJECT OVERVIEW
 # 1.HTML Structure: This will include an input field for the task, a button to add the task, and a Table to display the tasks.
 # 2. CSS : Basic styling for the to-do list.
-# 3. JavaScript: Logic to add, display, and delete list, Update  the list and to store the list in local storage using CURD OPERATION.Extract the Zip File Run only the landing.html file. Before Running landing.html file Install the VScode for running the code and download the images(body.jpg and netflix.png).
-
+# 3. JavaScript: Logic to add, display, and delete list, Update  the list and to store the list in local storage using CURD OPERATION.
 # HOW TO USE THE CODE:
 Extract the Zip File Run only the TODOLIST.html file. Before Running TODOLIST.html file Install the VScode for running the code and download the images(listbackgtround.jpg).
 
