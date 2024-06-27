@@ -5,7 +5,7 @@ It is a Basic TO DO-LIST project using CURD OPERATION with Local Storage in java
 # 2. CSS : Basic styling for the to-do list.
 # 3. JavaScript: Logic to add, display, and delete list, Update  the list and to store the list in local storage using CURD OPERATION.
 # HOW TO USE THE CODE:
-Extract the Zip File Run only the TODOLIST.html file. Before Running TODOLIST.html file Install the VScode for running the code and download the images(listbackgtround.jpg)  on the same folder where TODOLIST.html 
+Extract the Zip File Run only the TODOLIST.html file. Before Running TODOLIST.html file Install the VScode for running the code and download the image(listbackgtround.jpg)  on the same folder where TODOLIST.html 
  file is save.
 
 ![Screenshot (1152)](https://github.com/prerna24122/OCTANET_JUNE-Task-2-/assets/168319965/8d2d73eb-c557-416a-ae67-4d925bc21429)
